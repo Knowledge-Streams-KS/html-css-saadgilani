@@ -204,7 +204,7 @@ width: 100%;
  color: #303841;
  transition: color 0.3s ease ;
 }
-.cardText:hover .hide{
+.cardLinks:hover .hide{
     display: inline-block;
     color: orange;
 }
